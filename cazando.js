@@ -36,3 +36,5 @@ function graficarRectangulo (x,y,ancho,alto,color) {
     context.fillStyle = color
     context.fillRect(x,y,ancho,alto)
 }
+
+// Prueba
