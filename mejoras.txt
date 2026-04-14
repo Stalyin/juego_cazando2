@@ -1,5 +1,0 @@
-Hola Hola, Como estas
-git add .
-git commit -m "mensaje"
-
-git init
